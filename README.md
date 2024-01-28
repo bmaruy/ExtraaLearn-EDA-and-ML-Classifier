@@ -10,6 +10,7 @@ I analyzed a dataset of ExtraaLearn, an online education company, to determine t
 
 ## Data
  - Information regarding the data is inside the Jupyter notebook, and a data dictionary written by the dataset’s creator is in the beginning of the notebook.
+ - A link to the data since it's too big to add to Github: [dataset](https://drive.google.com/file/d/1XahZcR287ke7j48I7-oj0KzmmwSSvA3Y/view?usp=drive_link)
 
 ## Code structure:
  - Begins with an overview of ExtraaLearn and the dataset.
